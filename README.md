@@ -38,8 +38,8 @@ CRM Source Systems
         ▼
 Analytics & Reporting
 
-Author
-Abinash Shrestha
+## Author
+## Abinash Shrestha
 
 Technical Support Analyst | Data Analytics & Data Engineering Enthusiast
 
